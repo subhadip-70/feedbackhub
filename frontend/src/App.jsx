@@ -11,7 +11,7 @@ import {
 import axios from "axios";
 import "./App.css";
 
-const API = "http://localhost:5000/api/feedback";
+const API = "https://feedbackhub-backend-qimo.onrender.com/api/feedback";
 
 // Dashboard
 function Dashboard() {
